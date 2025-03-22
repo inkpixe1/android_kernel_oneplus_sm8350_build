@@ -1,4 +1,4 @@
-name: Build Kernel
+name: Build Lineage-21 Kernel
 
 on:
   workflow_dispatch:
